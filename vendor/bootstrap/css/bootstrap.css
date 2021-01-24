@@ -10349,5 +10349,19 @@ a.text-dark:focus {
     }
 }
 
+@media (max-width: 420px){
+    .fix-mobile-1 {
+        margin: 10px;
+        width: 100%;
+    }
+    .fix-mobile-2 {
+        margin: 5px;
+        width: 80% !important;
+    }
+
+    .llo{
+        font-size: 11px;
+    }
+}
 
 /*# sourceMappingURL=bootstrap.css.map */

@@ -6,3 +6,7 @@
 .hackfont {
     font-family: Hack, monospace;
 }
+
+.footer-fixed {
+    margin-top: 10px;
+}
